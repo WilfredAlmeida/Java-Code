@@ -1,0 +1,5 @@
+Open Editpad Wordpad and start creating the notes online. You can also copy-paste to edit text and save it for later use.
+
+Besides this, our online notepad allows users to upload files from a computer, Google Drive, and One Drive. (under development)
+
+You can add, delete, and copy-paste text on the online text pad (notebook)
